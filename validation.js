@@ -1,0 +1,1 @@
+function validatePassword() { /* validation logic */ }
